@@ -3,4 +3,4 @@ project(c--lab)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(c--lab jiayu/4/test1.c)
+add_executable(c--lab jiayu/4/test2.c)
